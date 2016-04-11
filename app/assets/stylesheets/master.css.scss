@@ -9,12 +9,43 @@
   background:url('confectionary.png');
 }
 
-.navbar-brand {
+a.navbar-brand {
   color: #E3E85A;
   font-family: 'Amatic SC', cursive;
   font-size: 50px;
 }
 
-h1 {
+.frosty h1 {
   font-family: 'News Cycle', sans-serif;
+  font-weight: 100;
+  text-shadow: rgba(0,0,0,0.95) 1px 1px;
+}
+
+.frosty h2 {
+  font-family: 'News Cycle', sans-serif;
+  font-weight: 200;
+  text-shadow: rgba(0,0,0,0.95) 1px 1px;
+}
+
+.hero {
+  background: url('hero3.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:400px;
+  box-shadow: 0px 3px 8px #2a2a2a;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar {
+  margin:0;
+}
+
+.frosty {
+  background:rgba(0,0,0, 0.5);
+  color:white;
+}
+
+.btn {
+  border-radius:0;
 }
