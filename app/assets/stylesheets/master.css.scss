@@ -6,7 +6,7 @@
   font-family: 'Amatic SC', cursive;
   font-weight: 200;
   box-shadow: 0px 1px 3px #2a2a2a;
-  background:url('fresh_snow.png');
+  background: url('fresh_snow.png');
 }
 
 a.navbar-brand {
@@ -37,21 +37,21 @@ li {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:400px;
+  height: 400px;
   box-shadow: 0px 3px 8px #2a2a2a;
 }
 
 h1, h2, h3, h4, h5, h6, .navbar {
-  margin:0;
+  margin: 0;
 }
 
 .frosty {
-  background:rgba(0,0,0, 0.5);
-  color:white;
+  background: rgba(0,0,0, 0.5);
+  color: white;
 }
 
 .btn {
-  border-radius:0;
+  border-radius: 0;
 }
 
 body {
@@ -66,40 +66,41 @@ font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill
   background: #fff;
   border: 1px solid #ccc;
   border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
-  padding:10px;
+  padding: 10px;
 }
 
 .booyah-box h2, .booyah-box h1 {
-  margin:10px;
+  margin: 10px;
 }
 
 .clr {
-  clear:both;
+  clear: both;
 }
 
 .field_with_errors {
   color: #ff3333;
   background-color: #FFEEEE;
   border-radius: 3px;
-  padding:8px;
+  padding: 8px;
   margin: 10px;
+}
 
 .lesson {
-  background-color:black;
-  margin-top:10px;
-  height:130px;
+  background-color: black;
+  margin-top: 10px;
+  height: 130px;
 }
 
 .lesson a {
   color:white;
-  font-family: "Helvetica Neue",Helvetica;
-  font-weight:100;
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
   font-size: 15px;
 }
 
 .lesson a b {
   font-weight: 100;
-  font-size:25px;
+  font-size: 25px;
 }
 
 .section {
